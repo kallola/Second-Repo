@@ -14,4 +14,8 @@ public class App
     {
     	System.out.println("git Demo............");
     }
+    public void m2()
+    {
+    	System.out.println("m2()............");
+    }
 }
